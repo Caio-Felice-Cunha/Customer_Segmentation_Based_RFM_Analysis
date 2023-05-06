@@ -39,10 +39,5 @@ The image seen at the beginning of this file is the conclusion we reached
 ## Next Steps
 * Improve hyperparameters and data classification.
 
-
-
-
-
-
 ## Disclaimer 
 A good part of this project was largely done in the Data Science Academy, Big Data Analytics with R and Microsoft Azure Machine Learning course (part of the Data Scientist training)
